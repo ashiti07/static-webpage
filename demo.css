@@ -46,7 +46,7 @@ body{
     text-align: center;
     padding-top: 30px;
     padding-bottom: 230px;
-    background-image: linear-gradient(rgba(5, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../demo/images/lap.png);
+    background-image: linear-gradient(rgba(5, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(../images/lap.png);
     background-attachment: fixed;        
     
 }
@@ -103,7 +103,7 @@ body{
 .text{
     float: right;
     width:30%;
-    background-image: linear-gradient( rgba(91, 179, 195, 0.418), rgba(119, 117, 3, 0.2) 100%),url(../demo/images/lap.png);
+    background-image: linear-gradient( rgba(91, 179, 195, 0.418), rgba(119, 117, 3, 0.2) 100%),url(../images/lap.png);
     background-attachment: fixed;        
     border-style: ridge;
     border-radius: 3px;
@@ -325,7 +325,7 @@ body{
 }
 
 .footer{
-    background-image: linear-gradient(rgb(174, 238, 174),rgba(0, 0, 0, 0.2)100%),url(../demo/images/lap.png);
+    background-image: linear-gradient(rgb(174, 238, 174),rgba(0, 0, 0, 0.2)100%),url(../images/lap.png);
     margin: 40px 40px;
     margin-left: 80px;
     margin-right: 80px;
